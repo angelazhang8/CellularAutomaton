@@ -8,8 +8,8 @@ The basic structure of a taxation system is that wealthier individuals are taxed
 See report for more details.
 
 Check out this link!
-https://www.openprocessing.org/sketch/842467
+![Sketch](https://www.openprocessing.org/sketch/842467)
 
-[report](https://github.com/xxxzhangxxx/Cellular_Automaton/blob/master/report.pdf)
+[Report](https://github.com/xxxzhangxxx/Cellular_Automaton/blob/master/report.pdf)
 
 
